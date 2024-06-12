@@ -14,10 +14,9 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-{viictorh20@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{viictorh20@gmail.com})](mailto:{viictorh20@gmail.com})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/viictorh17/)
+[![Linkedin: viictorh17](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viictorh17/)](https://www.linkedin.com/in/viictorh17/)
 
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=radical)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
 
