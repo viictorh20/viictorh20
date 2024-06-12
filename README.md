@@ -13,7 +13,7 @@
 ## 📫 Contato 
 
 <p align="left"> 
-<a href="https://linkedin.com/in/viictorh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viictorh20" height="30" width="40" /></a> viictorh20
+<a href="https://linkedin.com/in/viictorh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viictorh20" height="30" width="40" /></a> 
 </p>
 
 
@@ -21,4 +21,4 @@
 
 
 
-<p Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br></p>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
