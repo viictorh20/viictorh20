@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou {viictorh20}</h1>
+<h1 align="center">👋 Olá, eu sou viictorh20</h1>
 
 <p align="center">
   💻 Estudante de Programação |
