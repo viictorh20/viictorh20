@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou viictorh20</h1>
+<h1 align="center">👋 Olá, sou viictorh20</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
 
 
@@ -13,7 +13,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-viictorh20@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{viictorh20@gmail.com})](mailto:{viictorh20@gmail.com})
+[![Gmail Badge](https://img.shields.io/badge/-viictorh20@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viictorh20@gmai.com)](mailto:viictorh20@gmail.com)
 [![Linkedin: viictorh20](https://img.shields.io/badge/-viictorh20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viictorh20/)](https://www.linkedin.com/in/viictorh20/)
 
 
