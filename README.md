@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, sou Victor0</h1>
 
 <p align="center">
-💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+💻 Estudante de Programação |👨🏽‍💻 Apaixonado por Tecnologia
 </p><br><br>
 
 
